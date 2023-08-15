@@ -1,0 +1,19 @@
+
+    
+ --------------Done----------------------
+
+Hero secondary text (header link): 18px #E5E7EB
+
+Hero title: 48px extra-bold #F9FAF8
+
+Hero bg-color: #1F2937
+
+Header logo: 24px #F9FAF8
+
+ Quote section
+	bg-color: #E5E7Eb
+	text: 36px light italic #1F2937
+    
+Button color, call to action bg-color: #3882F6
+
+Information header text: 36px extra-bold #1F2937

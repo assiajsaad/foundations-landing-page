@@ -1,0 +1,57 @@
+body {
+    margin: 0;
+    
+}
+.body {
+    display: flex;
+    flex-direction: column;
+    /* justify-content: space-between; */
+}
+
+.header {
+    background-color: #1F2937;
+    justify-self: flex-start;
+}
+
+.header-logo {
+    font-size: 24px; 
+    color:#F9FAF8;
+}
+
+.header-button {
+    background-color: #3882F6;
+}
+
+.header-title {
+
+    font-size: 48px;
+    font-weight: extra-bold;
+    color: #F9FAF8;
+}
+
+.header-link {
+    font-size: 18px; 
+    color: #E5E7EB;
+}
+
+.body-title {
+    font-size: 36px;
+    font-weight: extra-bold;
+    color: #1F2937; 
+}
+
+.quote {
+    background-color: #E5E7Eb;
+    font-size: 36px;
+    font-weight: light;
+    font-style: italic; 
+    color: #1F2937; 
+}
+.signup-card {
+    background-color: #3882F6;
+}
+
+.footer {
+    background-color: #1F2937;
+   justify-self : flex-end;
+}
